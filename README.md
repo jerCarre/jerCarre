@@ -1,4 +1,4 @@
-You can find some publications here : https://medium.com/@jerome.carre
+You can find my stories on [Medium](https://medium.com/@jerome.carre) !
 
 <!---
 jerCarre/jerCarre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
